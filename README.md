@@ -48,13 +48,18 @@
 <p>📌 Reinforcement learning with graph attention networks for dynamic scheduling optimization
 <img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='40'/></p>
 
+
+### AI-enabled softwares
+<p>🤖 <a href="https://zhang-xuewen.github.io/qyflow">QiYuanWorkflow</a> — AI agent workflow automation for research and engineering </p>
+<p>🤖 <a href="https://zhang-xuewen.github.io/qyasst">QYAsst</a> — Multi-persona AI voice agent for hands-free task automation </p>
+
 ### Methods
 <p>🔬 Hybrid modeling </p>
 <p>🔬 Deep symbolic regression </p>
 <p>🔬 Model predictive control </p>
 <p>🔬 Machine learning based modeling </p>
 <p>🔬 Data-enabled predictive control </p>
-<p>🔬 Image augumentation, segmentation, and classification </p>
+<p>🔬 Image augmentation, segmentation, and classification </p>
 <p>🔬 Cross-entropy method </p>
 <p>🔬 Reinforcement learning </p>
 
@@ -73,9 +78,6 @@
 <p>💼 <a href="https://github.com/Zhang-Xuewen/Reference-Collector">Ref Collector</a> for batch downloading papers from scholar</p>
 
 
-### AI-enabled softwares
-<p>🤖 QiYuanWorkflow — AI agent workflow automation for research and engineering </p>
-<p>🤖 QYAsst — Multi-persona AI voice agent for hands-free task automation</p>
 
 ### Sticker-packs
 <p>🥳 <a href="https://github.com/Zhang-Xuewen/QiYuan-Hosptial--Sticker-packs">QiYuan Hospital</a></p>
